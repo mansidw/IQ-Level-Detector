@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603626677 source:c:\users\admin\desktop\ds prac\project\proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603627496 source:c:\users\admin\desktop\ds prac\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
